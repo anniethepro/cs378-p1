@@ -65,15 +65,18 @@ body {
 .plus{
   background-color: lightgreen;
   border: 1px solid black;
-  border-radius: 8px;
+  border-radius: 15px;
   text-align: center;
   display: inline-block;
 }
 
+.row {
+  text-align: center;
+}
 .minus{
   background-color: lightcoral;
   border: 1px solid black;
-  border-radius: 8px;
+  border-radius: 15px;
   text-align: center;
   display: inline-block;
 }
